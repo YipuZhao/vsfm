@@ -1,0 +1,270 @@
+0: 0
+image_size:	321x321
+#sift count:	244
+
+1: 1
+image_size:	321x321
+#sift count:	286
+
+2: 2
+image_size:	321x321
+#sift count:	444
+
+3: 3
+image_size:	321x321
+#sift count:	508
+
+4: 4
+image_size:	321x321
+#sift count:	430
+
+5: 5
+image_size:	321x321
+#sift count:	573
+
+6: 6
+image_size:	321x321
+#sift count:	178
+
+7: 7
+image_size:	321x321
+#sift count:	320
+
+8: 8
+image_size:	321x321
+#sift count:	357
+
+9: 9
+image_size:	321x321
+#sift count:	643
+
+10: 10
+image_size:	321x321
+#sift count:	199
+
+11: 11
+image_size:	321x321
+#sift count:	71
+
+12: 12
+image_size:	321x321
+#sift count:	202
+
+13: 13
+image_size:	321x321
+#sift count:	334
+
+14: 14
+image_size:	321x321
+#sift count:	515
+
+15: 15
+image_size:	321x321
+#sift count:	318
+
+16: 16
+image_size:	321x321
+#sift count:	469
+
+17: 17
+image_size:	321x321
+#sift count:	210
+
+18: 18
+image_size:	321x321
+#sift count:	411
+
+19: 19
+image_size:	321x321
+#sift count:	519
+
+20: 20
+image_size:	321x321
+#sift count:	434
+
+21: 21
+image_size:	321x321
+#sift count:	441
+
+22: 22
+image_size:	321x321
+#sift count:	473
+
+23: 23
+image_size:	321x321
+#sift count:	362
+
+24: 24
+image_size:	321x321
+#sift count:	356
+
+25: 25
+image_size:	321x321
+#sift count:	235
+
+26: 26
+image_size:	321x321
+#sift count:	190
+
+Loading image pixel data ...done in 0s
+
+Compute Missing Pairwise Matching, begin...
+0 pairs to compute match
+----------------------------------------------------------------
+Compute Missing Pairwise Matching, finished
+Totally 0.000 seconds used
+
+
+Run full 3D reconstruction, begin...
+35 pairs have two-view models
+38 pairs have fundamental matrices
+Initialize with 5 and 9
+66 3D points initialized from two images
+PBA library version = 105
+PBA: 66 3D pts, 2 cams and 132 projs...
+PBA: 0.149 -> 0.115 (1 LMs in 0.54sec)
+Focal Length : [385.200]->[386.069]
+Focal Length : [385.200]->[384.293]
+END: No more images to add [0 projs]
+
+#############################
+Initialize with 1 and 2
+45 3D points initialized from two images
+PBA: 45 3D pts, 2 cams and 90 projs...
+PBA: 0.167 -> 0.101 (1 LMs in 0.09sec)
+Focal Length : [385.200]->[386.635]
+Focal Length : [385.200]->[386.602]
+
+#############################
+#3: [16] sees 39 (+55) 3D points
+Estimated Focal Length [608][1.89N]
+# 107 projs (42 pts and 0 merges)
+PBA: 87 3D pts, 3 cams and 197 projs...
+PBA: 4.783 -> 0.174 (3 LMs in 0.01sec)
+
+**************************************
+#3/3:  107 projs and 42 pts added.
+PBA: 87 3D pts, 3 cams and 197 projs...
+PBA: 0.174 -> 0.166 (1 LMs in 0.00sec)
+PBA: 87 3D pts, 3 cams and 197 projs...
+PBA: 0.166 -> 0.165 (1 LMs in 0.00sec)
+Focal Length : [607.767]->[466.458]
+Radial Distortion : [0.214 -> 4]
+
+#############################
+#4: [3] sees 51 (+46) 3D points
+Estimated Focal Length [330][1.03N]
+# 38 projs (0 pts and 0 merges)
+PBA: 87 3D pts, 4 cams and 235 projs...
+PBA: 8.244 -> 0.250 (18 LMs in 0.07sec)
+Focal Length : [330.269]->[588.527]
+Radial Distortion : [-0.240 -> -3]
+
+#############################
+#5: [0] sees 51 (+35) 3D points
+Estimated Focal Length [444][1.38N]
+# 89 projs (24 pts and 0 merges)
+PBA: 111 3D pts, 5 cams and 324 projs...
+PBA: 1.397 -> 0.299 (27 LMs in 0.09sec)
+
+**************************************
+#5/5:  89 projs and 24 pts added.
+PBA: 111 3D pts, 5 cams and 324 projs...
+PBA: 0.299 -> 0.299 (1 LMs in 0.00sec)
+PBA: 111 3D pts, 5 cams and 324 projs...
+PBA: 0.299 -> 0.299 (1 LMs in 0.00sec)
+Focal Length : [443.868]->[669.086]
+Radial Distortion : [-0.302 -> -3]
+
+#############################
+#6: [15] sees 33 (+36) 3D points
+Estimated Focal Length [576][1.80N]
+# 64 projs (18 pts and 0 merges)
+PBA: 129 3D pts, 6 cams and 388 projs...
+PBA: 5.739 -> 0.383 (25 LMs in 0.12sec)
+Focal Length : [576.474]->[863.886]
+Radial Distortion : [-0.377 -> -3]
+END: No more images to add [0 projs]
+
+#############################
+Initialize with 19 and 20
+98 3D points initialized from two images
+PBA: 98 3D pts, 2 cams and 196 projs...
+PBA: 0.081 -> 0.075 (1 LMs in 0.09sec)
+Focal Length : [385.200]->[386.315]
+Focal Length : [385.200]->[382.826]
+
+#############################
+#3: [18] sees 51 (+31) 3D points
+Estimated Focal Length [304][0.95N]
+# 30 projs (0 pts and 0 merges)
+PBA: 98 3D pts, 3 cams and 226 projs...
+PBA: 1.995 -> 0.185 (1 LMs in 0.00sec)
+
+**************************************
+#3/3:  30 projs and 0 pts added.
+PBA: 98 3D pts, 3 cams and 226 projs...
+PBA: 0.185 -> 0.168 (1 LMs in 0.00sec)
+PBA: 98 3D pts, 3 cams and 226 projs...
+PBA: 0.168 -> 0.165 (1 LMs in 0.00sec)
+Focal Length : [303.598]->[308.718]
+Radial Distortion : [-0.079 -> -4]
+END: No more images to add [0 projs]
+
+#############################
+Failed to find two images for initialization
+Resuming SfM finished, 1 sec used
+
+---------------------------------------------------
+3 cams, 99 pts (3+: 30)
+226 projections (3+: 90)
+---------------------------------------------------
+3 model(s) reconstructed from 27 images;
+11 modeled; 0 reused; 0 EXIF; 
+0MB(0) used to store feature location.
+---------------------------------------------------
+
+########-------timing------#########
+Structure-From-Motion finished, 1 sec used
+1.3(1.3) seconds on Bundle Adjustment (+)
+1.0(1.0) seconds on Bundle Adjustment (*)
+#############################
+----------------------------------------------------------------
+Run full 3D reconstruction, finished
+Totally 1.000 seconds used
+
+
+Compute remaining photos, begin...
+END: No more images to add [0 projs]
+
+#############################
+
+---------------------------------------------------
+3 cams, 99 pts (3+: 30)
+226 projections (3+: 90)
+---------------------------------------------------
+3 model(s) reconstructed from 27 images;
+11 modeled; 0 reused; 0 EXIF; 
+0MB(0) used to store feature location.
+---------------------------------------------------
+----------------------------------------------------------------
+Compute remaining photos, finished
+Totally 0.000 seconds used
+
+
+Compute Bundle Adjustment, begin...
+PBA: 98 3D pts, 3 cams and 226 projs...
+PBA: 0.165 -> 0.164 (1 LMs in 0.09sec)
+----------------------------------------------------------------
+Compute Bundle Adjustment, finished
+Totally 0.000 seconds used
+
+
+Compute Missing Pairwise Matching, begin...
+0 pairs to compute match
+----------------------------------------------------------------
+Compute Missing Pairwise Matching, finished
+Totally 0.000 seconds used
+
+SIFT #:	411
+Loading image pixel data ...done in 0s

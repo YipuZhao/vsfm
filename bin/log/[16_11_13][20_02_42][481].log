@@ -1,0 +1,123 @@
+0: 0
+image_size:	321x321
+#sift count:	244
+
+1: 1
+image_size:	321x321
+#sift count:	286
+
+2: 2
+image_size:	321x321
+#sift count:	444
+
+3: 3
+image_size:	321x321
+#sift count:	508
+
+4: 4
+image_size:	321x321
+#sift count:	430
+
+5: 5
+image_size:	321x321
+#sift count:	573
+
+6: 6
+image_size:	321x321
+#sift count:	178
+
+7: 7
+image_size:	321x321
+#sift count:	320
+
+8: 8
+image_size:	321x321
+#sift count:	357
+
+9: 9
+image_size:	321x321
+#sift count:	643
+
+10: 10
+image_size:	321x321
+#sift count:	199
+
+11: 11
+image_size:	321x321
+#sift count:	71
+
+12: 12
+image_size:	321x321
+#sift count:	202
+
+13: 13
+image_size:	321x321
+#sift count:	334
+
+14: 14
+image_size:	321x321
+#sift count:	515
+
+15: 15
+image_size:	321x321
+#sift count:	318
+
+16: 16
+image_size:	321x321
+#sift count:	469
+
+17: 17
+image_size:	321x321
+#sift count:	210
+
+18: 18
+image_size:	321x321
+#sift count:	411
+
+19: 19
+image_size:	321x321
+#sift count:	519
+
+20: 20
+image_size:	321x321
+#sift count:	434
+
+21: 21
+image_size:	321x321
+#sift count:	441
+
+22: 22
+image_size:	321x321
+#sift count:	473
+
+23: 23
+image_size:	321x321
+#sift count:	362
+
+24: 24
+image_size:	321x321
+#sift count:	356
+
+25: 25
+image_size:	321x321
+#sift count:	235
+
+26: 26
+image_size:	321x321
+#sift count:	190
+
+Loading image pixel data ...done in 0s
+
+Compute Missing Pairwise Matching, begin...
+0 pairs to compute match
+----------------------------------------------------------------
+Compute Missing Pairwise Matching, finished
+Totally 0.000 seconds used
+
+
+Run full 3D reconstruction, begin...
+35 pairs have two-view models
+38 pairs have fundamental matrices
+Initialize with 5 and 9
+66 3D points initialized from two images
+PBA library version = 105

@@ -1,0 +1,135 @@
+0: 24
+image_size:	321x321
+#sift count:	356
+
+1: 25
+image_size:	321x321
+#sift count:	235
+
+2: 22
+image_size:	321x321
+#sift count:	473
+
+3: 23
+image_size:	321x321
+#sift count:	362
+
+4: 18
+image_size:	321x321
+#sift count:	411
+
+5: 20
+image_size:	321x321
+#sift count:	434
+
+6: 19
+image_size:	321x321
+#sift count:	519
+
+7: 17
+image_size:	321x321
+#sift count:	210
+
+8: 16
+image_size:	321x321
+#sift count:	469
+
+9: 15
+image_size:	321x321
+#sift count:	318
+
+10: 11
+image_size:	321x321
+#sift count:	71
+
+11: 10
+image_size:	321x321
+#sift count:	199
+
+12: 12
+image_size:	321x321
+#sift count:	202
+
+13: 8
+image_size:	321x321
+#sift count:	357
+
+14: 4
+image_size:	321x321
+#sift count:	430
+
+15: 5
+image_size:	321x321
+#sift count:	573
+
+16: 6
+image_size:	321x321
+#sift count:	178
+
+17: 3
+image_size:	321x321
+#sift count:	508
+
+18: 2
+image_size:	321x321
+#sift count:	445
+
+19: 1
+image_size:	321x321
+#sift count:	286
+
+20: 26
+image_size:	321x321
+#sift count:	190
+
+21: 21
+image_size:	321x321
+#sift count:	441
+
+22: 14
+image_size:	321x321
+#sift count:	515
+
+23: 13
+image_size:	321x321
+#sift count:	334
+
+24: 9
+image_size:	321x321
+#sift count:	643
+
+25: 7
+image_size:	321x321
+#sift count:	320
+
+26: 0
+image_size:	321x321
+#sift count:	244
+
+Loading image pixel data ...done in 0s
+Set initialization pair for the next model:
+25[7] and 26[0]
+Number of putative matches = 6
+Number of inlier matches = 0
+Oops, two-View reconstruction is missing
+
+Compute structures from two images, begin...
+NOTE: loose thresholds used for manual update
+0000 and 0001: [20/30], H[5], 0.00sec
+----------------------------------------------------------------
+Compute structures from two images, finished
+Totally 0.000 seconds used
+
+
+Compute Missing Pairwise Matching, begin...
+0 pairs to compute match
+----------------------------------------------------------------
+Compute Missing Pairwise Matching, finished
+Totally 0.000 seconds used
+
+
+Run full 3D reconstruction, begin...
+35 pairs have two-view models
+38 pairs have fundamental matrices
+Using manually selected initialization pair
+Initialize with 7 and 0
